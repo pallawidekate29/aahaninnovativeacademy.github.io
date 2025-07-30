@@ -1,1 +1,32 @@
-# aahaninnovativeacademy.github.io
+# Hi there, I'm Pallawi Dekate 👋
+
+**Data Analyst | Python Enthusiast | Machine Learning Explorer**
+
+---
+
+### 🚀 About Me
+
+I'm a passionate Data Analyst with expertise in:
+- **Python**
+- **Machine Learning**
+- **Monitoring & Evaluation**
+- **SQL**
+- **Advanced Excel**
+
+I enjoy turning data into actionable insights and creating solutions that make an impact. Always eager to learn new technologies and take on challenging projects!
+
+---
+
+### 🛠️ Top Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Monitoring & Evaluation](https://img.shields.io/badge/Monitoring%20%26%20Evaluation-ff9800?style=for-the-badge)
+
+---
+
+### 📈 GitHub Stats
+
+![Pallawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pallawidekate29&show_icons=true&hide_title=true&theme=default)
